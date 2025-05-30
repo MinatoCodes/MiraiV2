@@ -46,7 +46,7 @@
             "storage": "data.sqlite"
         }
     },
-    "APPSTATEPATH": "appstate.dev.json",
+    "APPSTATEPATH": "appstate.json",
     "NPM_FCA": "fca",
     "SETUP_WIN": {
         "port": 8888,
