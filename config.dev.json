@@ -2,10 +2,10 @@
     "notiGroup": true,
     "iconUnsend": {
         "status": true,
-        "icon": "❤️"
+        "icon": "😐"
     },
     "NOTIFICATION": true,
-    "language": "vi",
+    "language": "en",
     "keyActive": "",
     "DeveloperMode": false,
     "autoCreateDB": true,
@@ -34,12 +34,12 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Kraydus",
-    "PREFIX": "/",
+    "BOTNAME": "Hexsures💀",
+    "PREFIX": "*",
     "ADMINBOT": [
-        "100090987576608"
+        "61575868051148"
     ],
-    "NDH": [100090987576608],
+    "NDH": [61575868051148],
     "run": [],
     "DATABASE": {
         "sqlite": {
@@ -50,8 +50,8 @@
     "NPM_FCA": "fca",
     "SETUP_WIN": {
         "port": 8888,
-        "use": "Nếu chạy nhiều hơn 1 file trên win thì thay đổi số này ở file thứ 2, 3, 4..."
-    },
+        "use"If you run more than 1 file on Windows, change this number in the 2nd, 3rd, 4th file..."
+  },
     "FCAOption": {
         "forceLogin": true,
         "listenEvents": true,
